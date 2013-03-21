@@ -1,0 +1,12 @@
+{
+  "name": "social-icons",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "dependencies": {},
+  "styles": ["index.scss"],
+  "files": [
+    "images/twitter.png",
+    "images/facebook.png"
+    "images/youtube.png"
+  ]
+}

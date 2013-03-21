@@ -1,0 +1,19 @@
+.icon-social {
+  display: block;
+  height: 32px;
+  overflow: hidden;
+  text-indent: -9999em;
+  width: 32px;
+}
+
+.icon-twitter {
+  background: component-url("nib-styles-social-icons", "images/twitter.png") no-repeat center center;
+}
+
+.icon-facebook {
+  background: component-url("nib-styles-social-icons", "images/facebook.png") no-repeat center center;
+}
+
+.icon-youtube {
+  background: component-url("nib-styles-social-icons", "images/youtube.png") no-repeat center center;
+}
