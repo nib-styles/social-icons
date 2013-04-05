@@ -1,12 +1,15 @@
 {
   "name": "social-icons",
   "main": "index.scss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {},
   "styles": ["index.scss"],
   "files": [
     "images/twitter.png",
     "images/facebook.png",
-    "images/youtube.png"
+    "images/youtube.png",
+    "images/twitter-white-circle.svg",
+    "images/facebook-white-circle.svg",
+    "images/youtube-white-circle.svg"
   ]
 }

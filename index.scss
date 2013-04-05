@@ -17,3 +17,38 @@
 .icon-youtube {
   background: component-url("nib-styles-social-icons", "images/youtube.png") no-repeat center center;
 }
+
+.icon-twitter-circle {
+  background: no-repeat center center;
+  background-image: component-url("nib-styles-social-icons", "images/twitter-white-circle.png");
+  background-image: none, component-url("nib-styles-social-icons", "images/twitter-white-circle.svg") ;
+  background-size: 50px 50px;
+  height: 50px;
+  width: 50px;
+}
+
+.icon-youtube-circle {
+  background: no-repeat center center;
+  background-image: component-url("nib-styles-social-icons", "images/youtube-white-circle.png");
+  background-image: none, component-url("nib-styles-social-icons", "images/youtube-white-circle.svg") ;
+  background-size: 50px 50px;
+  height: 50px;
+  width: 50px;
+}
+
+.icon-facebook-circle {
+  background: no-repeat center center;
+  background-image: component-url("nib-styles-social-icons", "images/facebook-white-circle.png");
+  background-image: none, component-url("nib-styles-social-icons", "images/facebook-white-circle.svg") ;
+  background-size: 50px 50px;
+  height: 50px;
+  width: 50px;
+}
+
+.icon--faded {
+  @include transition(opacity 0.5s ease-in-out());
+  opacity: 0.3;
+  &:hover {
+    opacity: 1;
+  }
+}
