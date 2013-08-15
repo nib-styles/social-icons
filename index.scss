@@ -18,6 +18,12 @@
   background: component-url("nib-styles-social-icons", "images/youtube.png") no-repeat center center;
 }
 
+.icon-google {
+  background: no-repeat center center;
+  background-image: component-url("nib-styles-social-icons", "images/google-plus.png");
+  background-image: component-url("nib-styles-social-icons", "images/google-plus.svg"), none;
+}
+
 .icon-twitter-circle {
   background: no-repeat center center;
   background-image: component-url("nib-styles-social-icons", "images/twitter-white-circle.png");
