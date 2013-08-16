@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,0 C6.71535686,0 0,6.71641791 0,14.998939 C0,23.2835821 6.71535686,30 15,30 C23.2857042,30 30,23.2835821 30,14.998939 C30,6.71641791 23.2857042,0 15,0 L15,0 Z M15,0" id="Shape" fill="#3B5998"></path>
+        <path d="M17.0010986,9.10599995 C16.5040002,9.10599995 16.0476074,9.74749023 16.0476074,10.0524902 L16.0476074,12.032959 L19.0095215,12.032959 L19.0095215,15.0407104 L16.0476074,15.0407104 L16.0476074,24.0814209 L13.0008545,24.0814209 L13.0008545,15.0407104 L11,15.0407104 L11,11.8730001 L13.0008545,12.032959 L13.0008545,9.10599995 C13.0008545,8.65899995 12.682,6 16.504,6 L19.0095215,6.11787109 L19.0095215,9.10599995 L17.0010986,9.10599995 Z M17.0010986,9.10599995" id="Path" fill="#FFFFFF"></path>
+    </g>
+</svg>
