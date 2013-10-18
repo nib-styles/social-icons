@@ -1,9 +1,7 @@
 {
   "name": "social-icons",
-  "main": "index.scss",
-  "version": "0.2.0",
-  "dependencies": {},
-  "files": ["index.scss"],
+  "version": "0.3.0",
+  "styles": ["index.css"],
   "images": [
     "images/facebook-circle-30.png",
     "images/facebook-circle-white.svg",
