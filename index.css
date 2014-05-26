@@ -42,6 +42,11 @@
   background-image: url("images/google-circle.svg"), none;
 }
 
+.SocialIcon-instagram {
+  background-image: url("nib-styles-social-icons/images/instagram-circle-30.png");
+  background-image: url("nib-styles-social-icons/images/instagram-circle.svg"), none;
+}
+
 /**
  * These are only used on mobile, so we can get away with just using SVGs
  * seeing as we don't need to support IE8
