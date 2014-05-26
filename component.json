@@ -1,7 +1,12 @@
 {
   "name": "social-icons",
-  "version": "0.3.0",
-  "styles": ["index.css"],
+  "version": "0.3.1",
+  "styles": [
+    "index.css"
+  ],
+  "files": [
+    "index.scss"
+  ],
   "images": [
     "images/facebook-circle-30.png",
     "images/facebook-circle-white.svg",
@@ -15,7 +20,8 @@
     "images/youtube-circle-30.png",
     "images/youtube-circle-white.svg",
     "images/youtube-circle.svg",
-	"images/instagram-circle-30.png",
-	"images/instagram-circle.svg"
-  ]
+    "images/instagram-circle-30.png",
+    "images/instagram-circle.svg"
+  ],
+  "repo": "https://raw.githubusercontent.com/nib-styles/social-icons"
 }
